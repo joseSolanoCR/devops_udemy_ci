@@ -14,7 +14,7 @@ public class BasicApplicationTests {
 	@Test
 	public void contextLoads() {
 	String message = "Cambio de prueba";
-	Assert.assertNotNull(message); 
+	Assert.assertNotNull(message);
 	}
 
 }
